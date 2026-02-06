@@ -1,0 +1,16 @@
+{
+  "startedAt": "2026-02-06T17:20:39",
+  "completedAt": "2026-02-06T17:31:34",
+  "durationMinutes": 11,
+  "rounds": 8,
+  "experts": 8,
+  "verdict": "go",
+  "stars": 4,
+  "toolCalls": 42,
+  "tokenUsage": {
+    "input": 120000,
+    "output": 55000,
+    "total": 175000
+  },
+  "notes": "6/6 No-Go 기준 PASS. 차별점: 인기 API 프리셋, 구조화 탐색, realistic mock. 리스크 4개 모두 관리 가능. MVP 5일."
+}

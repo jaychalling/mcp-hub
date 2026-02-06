@@ -1,0 +1,19 @@
+{
+  "id": "mcp-openapi",
+  "memoryDir": "mcp-openapi",
+  "title": "mcp-openapi",
+  "subtitle": "OpenAPI/Swagger 스펙을 AI 에이전트가 탐색하고 활용할 수 있게 하는 MCP 서버",
+  "date": "2026-02-06",
+  "createdAt": "2026-02-06T17:20:39",
+  "experts": 8,
+  "rounds": 8,
+  "status": "MCP 서버 평가",
+  "tags": ["MCP", "OpenAPI", "DX", "API Tooling"],
+  "color": "blue",
+  "stars": 4,
+  "adopted": false,
+  "pages": {
+    "docs": null,
+    "minutes": { "sources": ["minutes.md"] }
+  }
+}
