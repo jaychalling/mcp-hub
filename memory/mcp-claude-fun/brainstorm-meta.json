@@ -1,0 +1,16 @@
+{
+  "startedAt": "2026-02-06T21:30:00",
+  "completedAt": "2026-02-06T21:55:00",
+  "durationMinutes": 25,
+  "rounds": 8,
+  "experts": 8,
+  "verdict": "go",
+  "stars": 4,
+  "toolCalls": 28,
+  "tokenUsage": {
+    "input": 120000,
+    "output": 85000,
+    "total": 205000
+  },
+  "notes": "MCP 생태계 최초 게이미피케이션 서버. git 기반 자동 데이터 수집으로 데이터 수집 문제 해결. 카드 시스템으로 바이럴 잠재력 높음. 전원 Go 합의."
+}

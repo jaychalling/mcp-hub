@@ -42,6 +42,21 @@ const brainstorms: {
   report: boolean;
 }[] = [
   {
+    id: 'mcp-claude-fun',
+    title: 'mcp-code-pulse',
+    subtitle: 'Git 커밋을 트레이딩 카드로 만들어 코딩 성과를 수집하고 자랑하게 하는 MCP 서버',
+    date: '2026-02-06',
+    createdAt: '2026-02-06T21:30:00',
+    experts: 8,
+    rounds: 8,
+    status: 'MCP 서버 평가',
+    tags: ['MCP', 'Gamification', 'Git', 'DX'],
+    color: 'purple',
+    stars: 4,
+    adopted: false,
+    report: false,
+  },
+  {
     id: 'mcp-openapi',
     title: 'mcp-openapi',
     subtitle: 'OpenAPI/Swagger 스펙을 AI 에이전트가 탐색하고 활용할 수 있게 하는 MCP 서버',
